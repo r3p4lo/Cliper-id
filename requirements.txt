@@ -1,0 +1,5 @@
+yt-dlp
+openai>=1.0.0
+moviepy
+python-dotenv
+Pillow
